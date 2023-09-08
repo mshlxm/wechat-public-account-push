@@ -8,12 +8,12 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'gh_95dc4faa8376',
+  APP_ID: 'wxc883880573418718',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'wxc883880573418718',
+  APP_SECRET: 'abad8d8aeb68ddfdf5dd9646e84b8efa',
 
-  TEMPLATE_ID: 'ed8d10809e4cc22583b8791ff3552e67',
+  TEMPLATE_ID: 'WNtEJzwruGw1zBXAXxQ264QfkpUoUWZ4SkDfiYR-F_U',
   USERS: ['gh_95dc4faa8376'],
 
   PROVINCE: '北京',
