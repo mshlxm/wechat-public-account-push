@@ -13,12 +13,12 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'abad8d8aeb68ddfdf5dd9646e84b8efa',
 
-  //TEMPLATE_ID: 'WNtEJzwruGw1zBXAXxQ264QfkpUoUWZ4SkDfiYR-F_U',
-  //USERS: ['oTZ3v6rn9HnoIbDB3L4Ih1gSICC4'],
-
   PROVINCE: '北京',
+  
   CITY: '北京',
-  msg: '林深时见鹿，海蓝时见鲸。而我，只想见你。',
+  
+ 
+  
   USERS: [
     {
       // 想要发送的人的名字
@@ -48,6 +48,8 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-7-19' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2025-10-1' },
+        
+        { keyword: 'msg', date: '林深时见鹿，海蓝时见鲸。而我，只想见你。' },
       ],
     },
   ],
