@@ -18,7 +18,7 @@ const USER_CONFIG = {
 
   PROVINCE: '北京',
   CITY: '北京',
-
+  msg: '林深时见鹿，海蓝时见鲸。而我，只想见你。',
   USERS: [
     {
       // 想要发送的人的名字
@@ -46,8 +46,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2023-7-19' },
-          // 看熊猫
-        { keyword: 'lovee_day', date: '2023-7-15' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2025-10-1' },
       ],
