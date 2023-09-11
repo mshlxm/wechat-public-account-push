@@ -26,7 +26,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oTZ3v6rn9HnoIbDB3L4Ih1gSICC4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'YqNieQntT1NI34WxTgBg5xMF613Y2Jhnt1ACbju4Z3c',
+      useTemplateId: 'zgbomJvI6vQdyqtayFlGgKx_5ZYKCV4G_uIKxUvRNyo',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -48,8 +48,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-7-19' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2025-10-1' },
-        
-        { keyword: 'marry_dayy', date: '林深时见鹿，海蓝时见鲸。而我，只想见你。' },
       ],
     },
   ],
