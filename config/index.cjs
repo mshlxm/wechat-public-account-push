@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'abad8d8aeb68ddfdf5dd9646e84b8efa',
 
   TEMPLATE_ID: 'WNtEJzwruGw1zBXAXxQ264QfkpUoUWZ4SkDfiYR-F_U',
-  USERS: ['gh_95dc4faa8376'],
+  USERS: ['oTZ3v6rn9HnoIbDB3L4Ih1gSICC4'],
 
   PROVINCE: '北京',
   CITY: '北京',
