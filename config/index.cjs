@@ -49,7 +49,7 @@ const USER_CONFIG = {
         // 结婚纪念日
         { keyword: 'marry_day', date: '2025-10-1' },
         
-        { keyword: 'msg', date: '林深时见鹿，海蓝时见鲸。而我，只想见你。' },
+        { keyword: 'marry_dayy', date: '林深时见鹿，海蓝时见鲸。而我，只想见你。' },
       ],
     },
   ],
