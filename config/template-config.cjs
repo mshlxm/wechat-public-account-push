@@ -21,6 +21,10 @@ const TEMPLATE_CONFIG = [
       风级: {{wind_scale.DATA}}
       
       {{comprehensive_horoscope.DATA}}
+
+       每日一句: {{wx_poetry_content_{index}.DATA}}
+       
+      爱的信封: {{wx_earthy_love_words_{index}.DATA}}
       
       ---
       
